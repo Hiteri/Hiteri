@@ -1,0 +1,84 @@
+2026-10-20 20:14:46,084 - INFO - Programa iniciado.
+2026-10-20 20:14:46,084 - INFO - Iniciando análise dos diretórios.
+2026-10-20 20:14:46,099 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova
+2026-10-20 20:14:46,101 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\config
+2026-10-20 20:14:46,102 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers
+2026-10-20 20:14:46,103 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers\relatorios
+2026-10-20 20:14:46,104 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs
+2026-10-20 20:14:46,105 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias
+2026-10-20 20:14:46,105 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias\exemplos
+2026-10-20 20:14:46,106 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\logs
+2026-10-20 20:14:46,106 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models
+2026-10-20 20:14:46,107 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models\historico
+2026-10-20 20:14:46,108 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp
+2026-10-20 20:14:46,109 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp\processados
+2026-10-20 20:14:46,109 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\tests
+2026-10-20 20:14:46,110 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\utils
+2026-10-20 20:14:46,111 - INFO - Análise dos diretórios finalizada.
+2026-10-20 20:14:46,111 - INFO - Validações internas concluídas.
+2026-10-20 20:14:46,111 - INFO - Gerando relatório.
+2026-10-20 20:14:46,113 - INFO - Relatório gerado.
+2026-10-20 20:14:46,114 - INFO - Programa finalizado com sucesso.
+2026-10-20 20:14:51,491 - INFO - Programa iniciado.
+2026-10-20 20:14:51,491 - INFO - Iniciando análise dos diretórios.
+2026-10-20 20:14:51,492 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova
+2026-10-20 20:14:51,493 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\config
+2026-10-20 20:14:51,493 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers
+2026-10-20 20:14:51,494 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers\relatorios
+2026-10-20 20:14:51,494 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs
+2026-10-20 20:14:51,495 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias
+2026-10-20 20:14:51,495 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias\exemplos
+2026-10-20 20:14:51,496 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\logs
+2026-10-20 20:14:51,497 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models
+2026-10-20 20:14:51,498 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models\historico
+2026-10-20 20:14:51,499 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp
+2026-10-20 20:14:51,499 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp\processados
+2026-10-20 20:14:51,500 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\tests
+2026-10-20 20:14:51,500 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\utils
+2026-10-20 20:14:51,501 - INFO - Análise dos diretórios finalizada.
+2026-10-20 20:14:51,501 - INFO - Validações internas concluídas.
+2026-10-20 20:14:51,501 - INFO - Gerando relatório.
+2026-10-20 20:14:51,503 - INFO - Relatório gerado.
+2026-10-20 20:14:51,503 - INFO - Programa finalizado com sucesso.
+2026-10-20 20:26:44,939 - INFO - Programa iniciado.
+2026-10-20 20:26:44,940 - INFO - Iniciando análise dos diretórios.
+2026-10-20 20:26:44,940 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova
+2026-10-20 20:26:44,942 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\config
+2026-10-20 20:26:44,942 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers
+2026-10-20 20:26:44,943 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers\relatorios
+2026-10-20 20:26:44,943 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs
+2026-10-20 20:26:44,944 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias
+2026-10-20 20:26:44,944 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias\exemplos
+2026-10-20 20:26:44,945 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\logs
+2026-10-20 20:26:44,945 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models
+2026-10-20 20:26:44,946 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models\historico
+2026-10-20 20:26:44,946 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp
+2026-10-20 20:26:44,947 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp\processados
+2026-10-20 20:26:44,947 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\tests
+2026-10-20 20:26:44,947 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\utils
+2026-10-20 20:26:44,948 - INFO - Análise dos diretórios finalizada.
+2026-10-20 20:26:44,948 - INFO - Validações internas concluídas.
+2026-10-20 20:26:44,948 - INFO - Gerando relatório.
+2026-10-20 20:26:44,949 - INFO - Relatório gerado.
+2026-10-20 20:26:44,950 - INFO - Programa finalizado com sucesso.
+2026-10-20 20:42:18,734 - INFO - Programa iniciado.
+2026-10-20 20:42:18,735 - INFO - Iniciando análise dos diretórios.
+2026-10-20 20:42:18,735 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova
+2026-10-20 20:42:18,736 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\config
+2026-10-20 20:42:18,737 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers
+2026-10-20 20:42:18,737 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\controllers\relatorios
+2026-10-20 20:42:18,738 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs
+2026-10-20 20:42:18,738 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias
+2026-10-20 20:42:18,739 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\docs\referencias\exemplos
+2026-10-20 20:42:18,739 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\logs
+2026-10-20 20:42:18,740 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models
+2026-10-20 20:42:18,740 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\models\historico
+2026-10-20 20:42:18,741 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp
+2026-10-20 20:42:18,741 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\temp\processados
+2026-10-20 20:42:18,741 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\tests
+2026-10-20 20:42:18,742 - INFO - Analisando diretório: c:\Users\2026100657\Documents\prova\utils
+2026-10-20 20:42:18,742 - INFO - Análise dos diretórios finalizada.
+2026-10-20 20:42:18,743 - INFO - Validações internas concluídas.
+2026-10-20 20:42:18,743 - INFO - Gerando relatório.
+2026-10-20 20:42:18,744 - INFO - Relatório gerado.
+2026-10-20 20:42:18,745 - INFO - Programa finalizado com sucesso.
